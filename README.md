@@ -29,3 +29,9 @@ Building hands-on skills toward CCNA and SOC Analyst roles.
 - Nmap
 - Splunk (coming soon)
 - Cisco Packet Tracer
+### Week 1 — Day 1
+- Captured live DNS traffic in Wireshark
+- Identified query vs response packets using flags
+- Used dig to query A and MX records
+- Read and understood a full DNS response including TTL, priority, and mail servers
+- Learned DNS uses UDP by default
